@@ -8,7 +8,7 @@ Compatible with iOS 5, 6, 7 and 8
 
 ## Note
 
-As Photos/Camera app uses different rules to locate strings file for some languages in different iOS versions, each pair of folder below actually contains the same ```PhotoInfo.strings``` file. And the duplicate one will be removed automatically by the [PhotoInfoTool](https://github.com/wangyandong-ningxia/photoinfo-localization/blob/master/Tool/PhotoInfoTool.m) when installing Photo Info. It's no big deal for now but it's not a good idea to put duplicate files in a single ```deb``` package. It will be resolved in the next major release of Photo Info via post-install script.
+As Photos/Camera app uses different rules to locate strings file for some languages in different iOS versions, each pair of folder below actually contains the same ```PhotoInfo.strings``` file. The duplicate one will be removed automatically by the [PhotoInfoTool](https://github.com/wangyandong-ningxia/photoinfo-localization/blob/master/Tool/PhotoInfoTool.m) when installing Photo Info. It's no big deal for now but it's not a good idea to put duplicate files in a single ```deb``` package. It will be resolved in the next major release of Photo Info via post-install script.
 
  <table>
   <tr>
