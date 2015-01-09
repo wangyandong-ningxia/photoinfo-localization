@@ -36,11 +36,13 @@ As Photos/Camera app uses different rules to locate strings file for some langua
 | Language | Translator  |
 | ---------|:-------------|
 | English | Wang Yandong |
-| 简体中文 | Wang Yandong |
-| 繁體中文 | Wang Yandong |
-| Deutsch | Christoph Parstorfer |
-| Italiano | Marco Marinoni |
-| 日本語 | Joe Elkins |
-| 한국의 | ssut (SuHun Han) |
-| Türkçe | Evrim Altay KOLUAÇIK |
-| Norsk (bokmål) | Eivind H. Bratterud |
+| 简体中文 / Simplified Chinese | Wang Yandong |
+| 繁體中文 / Traditional Chinese | Wang Yandong |
+| Deutsch / German | Christoph Parstorfer |
+| Italiano / Italian | Marco Marinoni |
+| 日本語 / Japanese | Joe Elkins |
+| 한국의 / Korean | ssut (SuHun Han) |
+| Türkçe / Turkish | Evrim Altay KOLUAÇIK |
+| Norsk bokmål / Norwegian Bokmål | Eivind H. Bratterud |
+| Español / Spanish | Jordi Rius |
+| Català / Catalan | Jordi Rius |
